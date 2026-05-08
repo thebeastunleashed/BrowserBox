@@ -10,7 +10,7 @@
   "author": "@dosy",
   "license": "(PolyForm-Noncommercial-1.0.0 OR Dosyago-Commercial-License-1.1.1-or-later)",
   "dependencies": {
-    "compression": "^1.7.4",
+    "compression": "^1.8.1",
     "cookie-parser": "latest",
     "exit-on-epipe": "^1.0.1",
     "express": "latest",
